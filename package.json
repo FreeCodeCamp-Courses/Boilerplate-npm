@@ -7,9 +7,9 @@
 	"scripts": {
 		"start": "node server.js"
 	},
+	"author": "Micheal Ataklt",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/FreeCodeCamp-Courses/Boilerplate-npm"
-	},
-	"author": "Micheal Ataklt"
+	}
 }
